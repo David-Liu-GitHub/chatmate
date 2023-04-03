@@ -9,5 +9,7 @@ Main differences from ChatGPT:
 5. Will still work when ChatGPT server is down or at full capacity
 
 Chatmate is purely console based at this stage (Beta). GUI will be updated in later versions.
+
 More language support will be added in later versions.
+
 The windows executable file can be found in the output folder.
